@@ -1,0 +1,10 @@
+[package]
+name = "silly-name-maker"
+version = "0.1.0"
+authors = ["Alpha Shuro <alphashuro@gmail.com>"]
+
+[dependencies]
+iron = "0.6.*"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
